@@ -151,10 +151,10 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), W
 
 ## OUTPUT :
 ### Linear Separable Data:
-<img src"https://github.com/Kaushika-Anandh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/1.png" width="400" height="380">
+<img src="https://github.com/Kaushika-Anandh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/1.png" width="400" height="380">
 
 ### Transformed Inputs:
-<img src"https://github.com/Kaushika-Anandh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/3.png" width="400" height="380">
+<img src="https://github.com/Kaushika-Anandh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/3.png" width="400" height="380">
 
 ### Prediction:
 ![](4.PNG)
