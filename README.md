@@ -1,4 +1,30 @@
-# Experiment-5-Implementation-of-XOR-using-RBF
+Exp.No : 05 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 11.05.2023
+<br>
+
+# Implementation of XOR classification using RBF
 
 ## AIM:
   To classify the Binary input patterns of XOR data  by implementing Radial Basis Function Neural Networks.
@@ -6,14 +32,16 @@
 ## EQUIPMENTS REQUIRED:
 
 Hardware – PCs
+
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## RELATED THEORETICAL CONCEPT:
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows
-XOR truth table
+
 <img width="541" alt="image" src="https://user-images.githubusercontent.com/112920679/201299438-5d1926f9-25e9-4f20-b392-1c112880ef56.png">
 
 XOR is a classification problem, as it renders binary distinct outputs. If we plot the INPUTS vs OUTPUTS for the XOR gate, as shown in figure below
+
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/112920679/201299568-d9398233-71d8-41b3-8b08-a39d5b95e3f1.png">
 
 The graph plots the two inputs corresponding to their output. Visualizing this plot, we can see that it is impossible to separate the different outputs (1 and 0) using a linear equation.
@@ -33,11 +61,17 @@ The RBF of hidden neuron as gaussian function
 ## ALGORIHM:
 
 Step 1 : Initialize the input patterns for XOR Gate
+
 Step 2: Initialize the desired output of the XOR Gate
+
 Step 3: Define the function for RBF and function for prediction.
+
 Step 4: Plot the graphs with inputs
+
 Step 5: Find the weights
+
 Step 6: Plot the graph with transformed inputs using RBF
+
 Step 7 : Test for the XOR patterns.
 
 ## PROGRAM:
